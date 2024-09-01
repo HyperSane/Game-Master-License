@@ -1,5 +1,5 @@
 # HyperSane AARPG License Repository https://github.com/HyperSane/Game-Master-License/blob/main/LICENSE.md
-
+# Game-REPO-HERE = https://github.com/HyperSane/AARPG
 ## Overview
 
 Welcome to the official license repository for the HyperSane AARPG. This repository hosts the legal framework that governs the content, contributions, and usage of materials related to the HyperSane AARPG, including all associated domains, websites, and platforms.
